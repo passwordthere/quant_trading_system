@@ -1,0 +1,7 @@
+quant_trading/.venv
+quant_trading/.idea
+frontend/node_modules
+frontend/.idea
+electron/node_modules
+electron/.idea
+
